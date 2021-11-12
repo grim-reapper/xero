@@ -1,0 +1,22 @@
+{
+    "name": "imran/xero",
+    "description": "XERO Auth2 integration",
+    "type": "library",
+    "require": {
+        "xeroapi/xero-php-oauth2": "^2.9.0",
+        "php": "^7.3|^8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Imran\\Xero\\": "src/"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "imran ali",
+            "email": "imran@netlawman.co.uk"
+        }
+    ],
+    "minimum-stability": "dev"
+}
