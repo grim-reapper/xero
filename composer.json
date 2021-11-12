@@ -1,5 +1,5 @@
 {
-    "name": "imran/xero",
+    "name": "grim-reapper/xero",
     "description": "XERO Auth2 integration",
     "type": "library",
     "require": {
@@ -8,15 +8,9 @@
     },
     "autoload": {
         "psr-4": {
-            "Imran\\Xero\\": "src/"
+            "GrimReapper\\Xero\\": "src/"
         }
     },
     "license": "MIT",
-    "authors": [
-        {
-            "name": "imran ali",
-            "email": "imran@netlawman.co.uk"
-        }
-    ],
     "minimum-stability": "dev"
 }

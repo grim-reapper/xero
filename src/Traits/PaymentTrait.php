@@ -1,6 +1,6 @@
 <?php
 
-namespace Imran\Xero\Traits;
+namespace GrimReapper\Xero\Traits;
 
 trait PaymentTrait
 {

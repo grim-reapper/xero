@@ -1,8 +1,8 @@
 <?php
 
-namespace Imran\Xero;
+namespace GrimReapper\Xero;
 
-use Imran\Xero\Contracts\StorageContract;
+use GrimReapper\Xero\Contracts\StorageContract;
 
 class FileStorage implements StorageContract
 {

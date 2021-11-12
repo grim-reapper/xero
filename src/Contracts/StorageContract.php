@@ -1,6 +1,6 @@
 <?php
 
-namespace Imran\Xero\Contracts;
+namespace GrimReapper\Xero\Contracts;
 
 interface StorageContract
 {

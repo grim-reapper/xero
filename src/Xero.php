@@ -1,6 +1,6 @@
 <?php
 
-namespace Imran\Xero;
+namespace GrimReapper\Xero;
 
 use GuzzleHttp\Client;
 use League\OAuth2\Client\Provider\Exception\IdentityProviderException;
