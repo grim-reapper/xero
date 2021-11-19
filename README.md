@@ -4,7 +4,7 @@
 
 ```php
 // To use this package you have to extend it, create your own PHP class and extend this.
-class YourClassName extends \Imran\Xero\Xero{
+class YourClassName extends \GrimReapper\Xero\Xero{
     // then override it constructor
     public function __construct(array $params)
     {
